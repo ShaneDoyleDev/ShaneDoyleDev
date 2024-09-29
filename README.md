@@ -9,7 +9,7 @@ Full-Stack Developer
 * 🤝  Linkedin profile: [shanedoyledev](https://www.linkedin.com/in/shanedoyledev/)
 * 🧠  I'm currently learning NextJS and loving it!
 
-As a Full Stack Software Developer I excel at developing visually appealing, functional interfaces with a keen eye for UI/UX design and I take pride in writing clean, maintainable code.
+I’m a highly curious Full Stack Software Developer with an insatiable passion for technology. I thrive on creating visually stunning, functional interfaces, with a sharp focus on UI/UX design. Writing clean, maintainable code is something I take great pride in, and I’m always eager to explore new technologies and tackle challenging problems.
 
 ### Languages and Tools
 
