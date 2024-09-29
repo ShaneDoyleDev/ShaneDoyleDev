@@ -10,7 +10,7 @@ Full-Stack Developer
 
 As a Full Stack Software Developer I excel at developing visually appealing, functional interfaces with a keen eye for UI/UX design and I take pride in writing clean, maintainable code.
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
