@@ -38,7 +38,7 @@ I’m a highly curious Full Stack Software Developer with an insatiable passion 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&theme=dark&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&theme=nord&hide=contribs,prs"
     media="(prefers-color-scheme: dark)"
   />
   <source
