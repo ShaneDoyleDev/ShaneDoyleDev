@@ -1,5 +1,5 @@
-Hi there 👋 My name is Shane
-============================
+Hi there 👋 My name is Shane Doyle
+==================================
 
 Full-Stack Developer
 --------------------
@@ -8,7 +8,7 @@ Full-Stack Developer
 * ✉️  You can contact me at [shanedoyle1989@gmail.com](mailto:shanedoyle1989@gmail.com)
 * 🧠  I'm currently learning NextJS
 
-As a Full Stack Software Developer with over a year of experience in web development,I excel at developing visually appealing, functional interfaces with a keen eye for UI/UX design, as demonstrated in my projects, and I take pride in writing clean, maintainable code.
+As a Full Stack Software Developer I excel at developing visually appealing, functional interfaces with a keen eye for UI/UX design and I take pride in writing clean, maintainable code.
 
 ### Skills
 
