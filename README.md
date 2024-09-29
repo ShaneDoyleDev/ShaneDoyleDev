@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [shanedoyle1989@gmail.com](mailto:shanedoyle1989@gmail.com)
 * 🤝  Linkedin profile: [shanedoyledev](https://www.linkedin.com/in/shanedoyledev/)
-* 🧠  I'm currently learning NextJS
+* 🧠  I'm currently learning NextJS and loving it!
 
 As a Full Stack Software Developer I excel at developing visually appealing, functional interfaces with a keen eye for UI/UX design and I take pride in writing clean, maintainable code.
 
