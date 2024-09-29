@@ -27,5 +27,3 @@ As a Full Stack Software Developer with over a year of experience in web develop
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shanedoyledev"><img src="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&hide=contribs&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=181824&hide_border=true&show_icons=true" alt="shanedoyledev's GitHub stats" /></a>
-
-<a href="http://www.github.com/shanedoyledev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanedoyledev&stroke=64748b&background=181824&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
