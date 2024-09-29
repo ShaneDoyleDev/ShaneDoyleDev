@@ -38,12 +38,12 @@ I’m a highly curious Full Stack Software Developer with an insatiable passion 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&theme=dark&hide=contribs,prs"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&hide=contribs,prs"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanedoyledev&show_icons=true&hide=contribs,prs" />
 </picture>
