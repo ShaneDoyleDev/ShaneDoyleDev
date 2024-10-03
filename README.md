@@ -1,4 +1,4 @@
-Hi there 👋 My name is Shane Doyle
+Hi there! 👋 My name is Shane Doyle
 ==================================
 
 Full-Stack Developer
